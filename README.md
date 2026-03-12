@@ -207,11 +207,11 @@ git clone https://github.com/Priya200227/saas-customer-retention-cohort-analysis
 
 # Tags
 
-Data Analytics  
-SQL  
-Python  
-Power BI  
-SaaS Analytics  
-Customer Retention  
-Cohort Analysis
+`Data Analytics`  
+`SQL`  
+`Python`  
+`Power BI` 
+`SaaS Analytics` 
+`Customer Retention`  
+`Cohort Analysis`
 
