@@ -59,6 +59,40 @@ This project builds a **data-driven framework** to analyze customer retention an
 
 ---
 
+# Dataset
+
+The dataset used in this project is a **synthetic SaaS subscription dataset created for analytical practice and portfolio development**.
+
+The data was generated programmatically using **SQL scripts with AI-assisted data simulation** to replicate realistic SaaS business activity.
+
+The dataset simulates typical subscription platform events including:
+
+- User registrations
+- Subscription plan assignments
+- Payment transactions
+- Product usage events
+- Customer engagement activity
+
+### Dataset Characteristics
+
+- ~10,000 users
+- ~2,400 paying customers
+- ~18,000 payment transactions
+- ~200,000 product usage events
+- ~2 years of simulated platform activity
+
+The dataset structure mirrors a common **SaaS analytics schema**, enabling analysis of:
+
+- Customer retention and churn
+- Monthly recurring revenue (MRR)
+- Average revenue per user (ARPU)
+- Customer lifetime value (CLV)
+- Cohort retention analysis
+
+All dataset generation scripts are included in the repository to ensure **full reproducibility and transparency**.
+
+---
+
 # Methodology
 
 The analysis was performed using **SQL, Python, and Power BI**.
