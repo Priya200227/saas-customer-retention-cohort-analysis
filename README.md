@@ -9,7 +9,7 @@ This project combines **SQL analysis, Python exploration, and Power BI dashboard
 
 # Dashboard Preview
 
-![Dashboard](images/BI_dashboard.png)
+![Dashboard](images/dashboard.png)
 
 ---
 
