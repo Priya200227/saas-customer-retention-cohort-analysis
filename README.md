@@ -191,11 +191,8 @@ Additional product usage data would help identify **why customers churn**.
 
 # How to Reproduce This Project
 
-1. Clone the repository
-
-
+1. Clone the repository<br>
 git clone https://github.com/Priya200227/saas-customer-retention-cohort-analysis.git
-
 
 2. Run SQL queries from the **sql** folder
 
